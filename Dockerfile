@@ -15,3 +15,4 @@ EXPOSE 80
 # from git repo
 # fourth comment in line
 # fifth comment in line
+# ansible-playbook command was wrong, corrected
