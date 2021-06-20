@@ -17,3 +17,4 @@ EXPOSE 80
 # fifth comment in line
 # ansible-playbook command was wrong, corrected
 # container was schedule but need to verify again
+# updated ansible inventory & docker.yml file
